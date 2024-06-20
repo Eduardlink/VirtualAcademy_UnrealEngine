@@ -1,5 +1,7 @@
 # Virtual Academy
 
+<img src="https://github.com/Eduardlink/VirtualAcademy_UnrealEngine/assets/109778441/b839f340-58ae-47e3-8f19-03e2b4e49829" height="400px">
+
 Virtual Academy es un proyecto desarrollado con Unreal Engine 5 para crear un mundo virtual interactivo diseñado para enseñar el idioma inglés. Los usuarios pueden interactuar con los objetos del entorno y escuchar los nombres de los objetos tanto en español como en inglés, facilitando así el aprendizaje del nuevo idioma.
 
 ## Características
